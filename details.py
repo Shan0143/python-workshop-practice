@@ -9,6 +9,6 @@ print("\n--- User Details ---")
 print(f"Naam  : {name}")
 print(f"Umar  : {age}")
 print(f"Shehar: {city}")
-print(f"Hobby : {hobby}")
+print(f"aadat : {free fire}")
 
 print("\nDhanyawaad 👋".format(name))
